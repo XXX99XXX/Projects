@@ -31,3 +31,4 @@ alert(`So speed is ${currency*eu} eur`);
 const  size = prompt("Enter size of flash drive:");
 console.log(`So will have ${parseInt(size*1000/820)} `);
 alert(`So will have  ${parseInt(size*1000/820)} `);
+console.log(`So circle area is `);
